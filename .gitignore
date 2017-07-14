@@ -1,0 +1,4 @@
+liblua.a
+lua
+*.o
+.vscode
